@@ -1,0 +1,1 @@
+pyinstaller --clean -i ..\..\luc_icon.ico --distpath ..\dist --add-data="..\src\luc_icon.ico;." -D -w ..\src\keepMeAwake.py
