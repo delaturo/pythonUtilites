@@ -1,8 +1,9 @@
 # pythonUtilites
 Small utilities made in python
 
-- KeepMeAwake
-This tool keeps your computer awake.
-Dependencies:
-    - pyautogui
-    - PySimpleGUI
+## KeepMeAwake
+Keeps your computer from sleep.
+
+#### Dependencies:
+ - PySimpleGUI
+ - Pyautogui
