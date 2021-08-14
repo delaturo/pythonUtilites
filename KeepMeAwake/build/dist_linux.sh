@@ -1,1 +1,1 @@
-pyinstaller --clean -i ../../luc_icon.ico --distpath ../dist/linux-ubuntu --add-data="../src/luc_icon.ico:." -F -w ../src/keepMeAwake.py
+pyinstaller --clean -i ../../icn.ico --distpath ../dist/linux-debianBased --add-data="../src/icn.ico:." -F -w ../src/keepMeAwake.py
