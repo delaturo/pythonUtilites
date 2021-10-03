@@ -65,7 +65,7 @@ def main():
 
     osPlatform = platform.system()
     if 'Windows' in osPlatform:
-        restartWakeUpThread(WakeUpEvent.VOLUME)
+        restartWakeUpThread(WakeUpEvent.VOLUME)     
         cbDefaultValue = 'Volume Up/Down'
     else:
         restartWakeUpThread(WakeUpEvent.MOUSE)
